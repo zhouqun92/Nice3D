@@ -8,7 +8,7 @@
 
 This repo is a refinement for Multi-view reconstruction, it can effectively improve the quality of the 3D mesh generation from a single image based on the LRM/Instant3D/InstantMesh architecture.
 
----------------------------Instantmesh--------------------------------------------------------------------------ours---------------------------
+---------------------------Instantmesh-----------------------------------------------------------ours------------
 ![2024-09-12_152654](https://github.com/user-attachments/assets/defbe418-65e2-4072-b8cd-1afbc54edd37)
 ![2024-09-12_152601](https://github.com/user-attachments/assets/df76234a-f38c-4a32-acf8-c756f59264e9)
 ![2024-09-12_152519](https://github.com/user-attachments/assets/46d503af-220b-484a-863e-938460c4679d)
