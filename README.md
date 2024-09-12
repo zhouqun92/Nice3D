@@ -7,6 +7,7 @@
 ---
 
 This repo is a refinement for Multi-view reconstruction, it can effectively improve the quality of the 3D mesh generation from a single image based on the LRM/Instant3D/InstantMesh architecture.
+
 https://github.com/zhouqun92/Nice3D/blob/main/assets/2024-09-12_152519.png
 https://github.com/zhouqun92/Nice3D/blob/main/assets/2024-09-12_152601.png
 https://github.com/zhouqun92/Nice3D/blob/main/assets/2024-09-12_153206.png
