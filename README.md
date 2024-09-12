@@ -10,7 +10,7 @@ This repo is a refinement for Multi-view reconstruction, it can effectively impr
 
 
 # 🚩 Features and Todo List
-- [x] Release the comparison whith InstantMesh.
+- [ ] Release the comparison whith InstantMesh.
 - [ ] Release huggingface gradio demo.
 - [ ] Release inference code.
 
